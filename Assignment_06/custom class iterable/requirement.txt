@@ -1,0 +1,7 @@
+
+
+ Made a class called Countdown.
+ When  make a Countdown(5), it starts at 5.
+ Each time you ask for the next number, it gives you the current number and goes down by 1.
+ When it goes below 0, it stops.
+ The for loop prints each number: 5, 4, 3, 2, 1, 0.
